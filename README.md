@@ -32,7 +32,7 @@ A simple terminal-based To-Do List application built using Python and MySQL. Use
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/yourusername/todo-mysql-app.git
+git clone https://github.com/pr0jzer0/todo-mysql-app.git
 cd todo-mysql-app
 2. Install Dependencies
 bash
