@@ -1,0 +1,15 @@
+🔹 Step 1: Install Only What You Need
+
+	[pip install mysql-connector-python] Paste in terminal.
+
+🔹 Step 2: Freeze Requirements
+	Now run:
+
+	pip freeze 
+
+	This creates a file like:
+
+mysql-connector-python==8.4.0
+
+🔹 Step 3:  Install XAMPP for MYSQL SERVER 
+	    download it own your own.
